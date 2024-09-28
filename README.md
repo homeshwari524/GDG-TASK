@@ -29,3 +29,19 @@ This project involves converting the provided Figma UI design into a fully funct
    ```bash
    git clone https://github.com/homeshwari-524/GDG-TASK.git
    cd GDG-TASK
+2.  Install Dependencies: If you are using npm, run
+   ```bash
+   npm install
+   If you prefer yarn, run:
+   yarn install
+3. Running the Application
+   To start the development server, use the following command:
+   ```bash
+   npm start
+4. Building for Production
+   ```bash
+   To create a production build, run:
+   npm run build
+
+
+    
