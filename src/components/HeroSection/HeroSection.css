@@ -1,0 +1,85 @@
+/* HeroSection.css */
+.hero {
+    display: flex;
+    align-items: center;  /* Center horizontally */
+    justify-content: center;  /* Center vertically */
+    height: 100vh;  /* Full height of the viewport */
+    text-align: center;  /* Center align text */
+    background-color: #f8f9fa;  /* Optional background color */
+    margin-left:25px;
+}
+
+.hero-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px; 
+    font-weight: 600; 
+    line-height: 103px; 
+    margin: 0; 
+    opacity: 1;  
+    margin-top:100px;
+    margin-left:200px;
+}
+.g {
+    color: #4285F4; 
+}
+
+.o {
+    color: #EA4335; 
+}
+
+.o:nth-child(3) {
+    color: #FBBC05; 
+}
+
+.g:nth-child(4) {
+    color: #4285F4;
+}
+
+.l {
+    color: #34A853;
+}
+
+.e {
+    color: #EA4335;
+}
+
+.DeveloperGroups {
+    font-weight: 600; 
+
+}
+
+.hero-subtitle {
+    font-family: 'Poppins', sans-serif; 
+    color: #646464;
+    font-size: 50px; 
+    font-weight: 550; 
+    line-height: 60.65px; 
+    opacity: 1;  /* Ensure visibility */
+    margin-left:500px;
+}
+
+.hero-image {
+    width: 613px;  /* Set width */
+    height: 373.08px;  /* Set height */
+    margin-top: 20px;  /* Add spacing above the image */
+    opacity: 1;  /* Ensure visibility */
+    margin-left:350px;
+}
+.content{
+    width: 935px;
+    height: 135px;
+    top: 790px;
+    left: 272px;
+    padding: 0px 0px 9px 0px;
+    gap: 0px;
+    opacity: 0px;
+    font-family:'Poppins', sans-serif; 
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 42.46px;
+    text-align: center;
+    color:#646464;
+    margin-left:175px;
+
+
+}
